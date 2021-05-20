@@ -1,4 +1,3 @@
-from Seq2Seq.seq2seq import Decoder
 import torch 
 import torch.nn as nn 
 
