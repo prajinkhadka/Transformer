@@ -1,4 +1,4 @@
-# Transformer
+# Transformer ( Attention )
 Trying to implement Transformer
 
 ## Resources:
